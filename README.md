@@ -1,6 +1,5 @@
 # ChatBot-GPT-2
 
-So, what's this code all about? (Project Summary)
 This Python script is basically a little command-line chat buddy. You can use it to:
 
 Kick off new conversations: Just give your chat a name, and you're good to go.
